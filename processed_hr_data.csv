@@ -1,0 +1,5 @@
+EmployeeID,JoinYear,Salary,PerformanceScore,Tenure,SalaryPerYear
+E01,2018,60000.0,3,8,7500.0
+E02,2020,50000.0,4,6,8333.333333333334
+E03,2016,,5,10,
+E04,2022,45000.0,2,4,11250.0
