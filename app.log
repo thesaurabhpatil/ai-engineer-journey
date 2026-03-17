@@ -1,0 +1,4 @@
+2026-03-16 15:46:00,477 ERROR:Attempted to divide by zero: division by zero
+2026-03-16 15:50:12,792 ERROR:File not found: [Errno 2] No such file or directory: 'input.txt'
+2026-03-16 15:50:12,794 ERROR:File not found: [Errno 2] No such file or directory: 'input.txt'
+2026-03-16 15:50:12,794 ERROR:Attempted to divide by zero: division by zero
